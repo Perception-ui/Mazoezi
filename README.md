@@ -1,2 +1,2 @@
 # Codewars
-practice @ codewars
+mazoezi @ codewars
